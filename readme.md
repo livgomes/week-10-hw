@@ -17,7 +17,7 @@ Key Definitions this week were;
 
 ### Homework
 
-This weeks webpage revolved fully around the responsive web design in both the lay out and the content that was displayed within the webpage. I had quite abit of trouble working with RWD and so had to make my webpage quite simple. First I began working with the smallest size screen by adapting my webbrowser to the estimated size of an iphone and as I added different elements I tested them on different sizes of tablets and then the average laptop screen. For this webpage I included a dropdown menu tab at the top of the screen, a basic title and introductory definition to RWD. Then I included two flexboxes consiting of socal media links  and an example display of RWDs. These flex boxes adjust insize as the you change devices to ensure all content is clearly visiable on every device. Next I added two empasis boxes which addressed the questions "why is RWD important?" and "process for creating RWD?". These questions run from margin to margin of the webpage with a centered ttle. This design is consistent throughout each screen device, with the content compacting itself to accommadate the various screen sizes. 
+This weeks webpage revolved fully around the responsive web design in both the lay out and the content that was displayed within the webpage. I had quite abit of trouble working with RWD and so had to make my webpage quite simple. First I began working with the smallest size screen by adapting my webbrowser to the estimated size of an iphone and as I added different elements I tested them on different sizes of tablets and then the average laptop screen. For this webpage I included a dropdown menu tab at the top of the screen, a basic title and introductory definition to RWD. Then I included two flexboxes consiting of socal media links  and an example display of RWDs. These flex boxes adjust insize as the you change devices to ensure all content is clearly visiable on every device. Next I added two empasis boxes which addressed the questions "why is RWD important?" and "process for creating RWD?". These questions run from margin to margin of the webpage with a centered ttle. This design is consistent throughout each screen device, with the content compacting itself to accommadate the various screen sizes.
 
 ### Issues
 
@@ -25,4 +25,8 @@ This week I struggled quite a bit with all the work that needed to be covered an
 
 ### Future Discussion
 
-Although very difficult, I found this week exciting none the less, as once I am able to figure RWD out properly then I think I will be on the right tract to developing websites that portray my pesonal style and content preference. I looks forward to continue to work with RWD and hopefully can implement it is my furutre assignments.
+Although very difficult, I found this week exciting none the less, as once I am able to figure RWD out properly then I think I will be on the right tract to developing websites that portray my pesonal style and content preference. I looks forward to continue to work with RWD and hopefully can implement it is my future assignments.
+
+RWD design
+
+![RWD Design](RWD design.jpg)
